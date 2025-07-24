@@ -3,7 +3,7 @@ public class Main
   {
     public static String GENES="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890,.!? ";
 
-    public static String TARGET="Ranveer Raj";
+    public static String TARGET="Harsh Dalmia";
 
     public static int population_size=100;
 
